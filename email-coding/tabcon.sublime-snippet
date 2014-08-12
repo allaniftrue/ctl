@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 -->
+<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" class="tbl-container">
+    <tr>
+        <td>
+           $2
+        </td>
+    </tr>
+</table>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tabcon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
