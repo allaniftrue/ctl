@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<table border="0" cellspacing="0" cellpadding="0" width="${1:100%}" align="${2:center}">
+    <tr>
+        <td>
+            $3
+        </td>
+    </tr>
+</table>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>etable</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
