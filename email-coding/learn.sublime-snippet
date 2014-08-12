@@ -3,15 +3,15 @@
 <!-- Learn More Button -->
 <table cellspacing="0" cellpadding="0" border="0" width="${1:115}" align="${2:left}" class="tb-btn" style="background-color:#${3:d5ad23};" bgcolor="#${3:d5ad23}">
 	<tr>
-		<td valign="middle" style="line-height:31px;text-align:center;font-size:14px;" height="31">
-			<a href="{$4}?utm_source=eDialog&amp;utm_medium=Mailer&amp;utm_campaign=Mailer_ie_120614" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height:31px;" reportname="{$5}">
+		<td valign="middle" style="line-height:${4:31}px;text-align:center;font-size:14px;" height="${4:31}">
+			<a href="$5?utm_source=eDialog&utm_medium=Mailer&amp;utm_campaign=Mailer_ie_120614" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height:${4:31}px;" reportname="$5">
 			<font style="text-decoration:none;color:#ffffff;">Learn More</font></a>
 		</td>
 	</tr>
 </table>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>learn</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
