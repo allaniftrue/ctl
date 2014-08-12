@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!-- MHL -->
+<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" class="tbl-container">
+    <tr>
+        <td>
+            <a href="http://ie.creative.com/store/?utm_source=eDialog&utm_medium=Mailer&utm_campaign=Mailer_ie_310714" reportname="$1" target="_blank" style="text-decoration:none;">
+                <img src="$2" border="0" alt="$1" title="$1" style="border:0;display:block;" width="100%" />
+            </a>
+        </td>
+    </tr>
+</table>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mhl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
