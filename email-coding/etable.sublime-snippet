@@ -1,12 +1,13 @@
 <snippet>
     <content><![CDATA[
-<table border="0" cellspacing="0" cellpadding="0" width="${1:100%}" align="${2:center}">
+<!-- $1 -->
+<table border="0" cellspacing="0" cellpadding="0" width="${2:100%}" align="${3:center}">
     <tr>
         <td>
-            $3
+            $4
         </td>
     </tr>
-</table>
+</table><!-- END OF $1 -->
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>etable</tabTrigger>
