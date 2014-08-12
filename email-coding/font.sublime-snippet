@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<font style="font-family:${1:Arial,sans-serif};font-size:${2:14}px;color:#${3:000000};${4:font-weight:bold}">
+	$5
+</font>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>font</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
